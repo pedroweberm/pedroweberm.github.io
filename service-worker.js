@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fc041a8cea45f81b890bedb46deb7434.js"
+  "/precache-manifest.0284e074d813d10b0ff99bb476774433.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "edu-sbc"});
+workbox.core.setCacheNameDetails({prefix: "compeduba"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
