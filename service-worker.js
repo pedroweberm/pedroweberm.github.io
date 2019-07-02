@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0284e074d813d10b0ff99bb476774433.js"
+  "/precache-manifest.55e5b01e5c5fe25cfa54223bc1106727.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "compeduba"});
